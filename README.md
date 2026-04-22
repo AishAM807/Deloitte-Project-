@@ -44,9 +44,9 @@ What are the machines that broke most often in that location?
 
 - Step 6: Created a Dashboard with the 2 previous sheets and set the first chart to be used as a filter (selecting a factory in the first chart shows only the downtime of the machines in this factory in the second chart).
 
-<img width="856" height="469" alt="Image" src="https://github.com/user-attachments/assets/eccae030-0b51-47c7-aab3-1bc88929620e" />
+<img width="896" height="494" alt="Image" src="https://github.com/user-attachments/assets/745ff425-30c3-4083-9418-f952d1ad0456" />
+
 
 - Step 7: A factory was selected to analyze the filtered output of downtime for unhealthy machines at the factory level.
 
-<img width="896" height="494" alt="Image" src="https://github.com/user-attachments/assets/745ff425-30c3-4083-9418-f952d1ad0456" />
-
+<img width="856" height="469" alt="Image" src="https://github.com/user-attachments/assets/eccae030-0b51-47c7-aab3-1bc88929620e" />
