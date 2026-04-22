@@ -27,6 +27,8 @@ What are the machines that broke most often in that location?
 ### Steps followed:
 
 - Step 1: I downloaded the daikibo-telemetry-data.json.zip file and loaded it into Power BI Desktop.
+<img width="345" height="269" alt="Image" src="https://github.com/user-attachments/assets/b65a7e62-6039-4d67-98c3-7a8ccfe98ae7" />
+<img width="1087" height="558" alt="Image" src="https://github.com/user-attachments/assets/a5f77219-4e5e-4afe-b04a-caceec15ffda" />
 - Step 2: Using Power Query, I changed the data types of the relevant columns.
 - Step 3: Created a calculated measure field called "Unhealthy" with a value of 10 for every unhealthy status (representing 10 mins of potential downtime since the previous message).
 
