@@ -78,3 +78,17 @@ Highly Discriminative (<-20 AND >20)
 <img width="504" height="384" alt="Image" src="https://github.com/user-attachments/assets/c1e68a4a-57ba-4bf3-aa0b-fc0e0a5624d4" />
 
 <img width="789" height="425" alt="Image" src="https://github.com/user-attachments/assets/3dcb3ebf-7439-4a77-800b-fdf98fb280e8" />
+
+
+📊 Key Insights: Factory-Level Discrimination Analysis
+🥇 Most Discriminative Factory → Daikibo Factory Meiyo
+Highest number of “Highly Discriminative” roles
+Affects senior leadership levels:
+C-Level
+VP
+Jr. Manager
+Operational Support
+Indicates systemic inequality across hierarchy, not isolated roles
+
+👉 Conclusion:
+Meiyo shows the most severe and widespread discrimination
