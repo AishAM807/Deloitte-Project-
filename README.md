@@ -52,3 +52,23 @@ What are the machines that broke most often in that location?
 - Step 7: A factory was selected to analyze the filtered output of downtime for unhealthy machines at the factory level.
 
 <img width="856" height="469" alt="Image" src="https://github.com/user-attachments/assets/eccae030-0b51-47c7-aab3-1bc88929620e" />
+
+
+## Problem Statement: 
+After a worrisome number of internal complaints about gender inequality in terms of salary, Daikibo Industrials wants us to help them investigate.
+
+The Forensic Tech team has built an algorithm to quantify “level of gender pay equality” for most job roles within the company, in all company locations. Our Forensics lead thinks it would be a great idea for you to finish the job.
+
+### Task 2
+
+We have processed all data on employee compensation and generated an Excel file (Equality Table.xlsx, available in the Resources) containing 3 columns:
+
+Factory
+Job Role
+Equality Score (integer; ranging between -100 and +100; 0 is ideal)
+Here is your task:
+
+Create a 4th column (Equality class), classifying the equality score into 3 types:
+Fair (+-10)
+Unfair (<-10 AND >10)
+Highly Discriminative (<-20 AND >20)
