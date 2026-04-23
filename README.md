@@ -72,3 +72,9 @@ Create a 4th column (Equality class), classifying the equality score into 3 type
 Fair (+-10)
 Unfair (<-10 AND >10)
 Highly Discriminative (<-20 AND >20)
+
+<img width="545" height="526" alt="Image" src="https://github.com/user-attachments/assets/ce083014-9308-4a59-ad25-f2a73406f099" />
+
+<img width="504" height="384" alt="Image" src="https://github.com/user-attachments/assets/c1e68a4a-57ba-4bf3-aa0b-fc0e0a5624d4" />
+
+<img width="789" height="425" alt="Image" src="https://github.com/user-attachments/assets/3dcb3ebf-7439-4a77-800b-fdf98fb280e8" />
